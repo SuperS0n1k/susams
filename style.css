@@ -24,7 +24,7 @@ input {
 }
 
 h2 {
-  color: #000000;
+  color: ##ff5940;
 }
 
 footer {
@@ -34,5 +34,16 @@ footer {
 textarea {
   height: 20px;
   border-radius: 15px;
-  border-color: #000dff;
+  border-color: #fffff5;
+  color: #ff5940;
+}
+
+button {
+  border-radius: 15px;
+  border-color: #fffff5;
+  color: #ff5940;
+}
+
+p,h5,h4,h3,h2 {
+  color: #ff5940; 
 }
